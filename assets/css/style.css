@@ -14,6 +14,8 @@ label {
 h1, h2, h3, h5 {
 	color:#777777;
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-size:150%;
+	font-weight:bold;
 }
 
 h4 {
@@ -68,6 +70,8 @@ input {
 
 #aboutmeheader {
 	color: #4aaaa5;
+	padding-top:10px;
+	padding-bottom:20px;
 }
 
 #nameboxcolor {
@@ -85,9 +89,9 @@ input {
 #namebox {
 	background-color: #4aaaa5;
 	float:left;
-	height:70px;
+	height:50px;
 	width:25%;
-	padding-top:10px;
+	padding-top:30px;
 	padding-left:10px;
 	padding-bottom:20px;
 	margin-left:150px;
@@ -255,6 +259,7 @@ background:#777777;
 width: 450px;
 padding-left: 50px;
 padding-right: 50px;
+margin-bottom:10px;
 }
 
 .line-separator-contact{
@@ -266,4 +271,5 @@ padding-left: 75px;
 padding-right: 100px;
 margin-bottom:20px;
 margin-left:20px;
+margin-top:20px;
 }
